@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">WeatherInfo</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="degree_indicator">\u00B0</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="dummy_temp">0\u00B0</string>
 </resources>

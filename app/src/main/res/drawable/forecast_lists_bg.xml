@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow for the top side -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" /> <!-- Background color for the rectangle -->
+        </shape>
+    </item>
+
+    <!-- Shadow effect -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" /> <!-- Transparent color for the shadow -->
+            <padding android:top="4dp" /> <!-- Adjust the top padding to control the shadow size -->
+            <size android:height="4dp" /> <!-- Adjust the height to control the shadow size -->
+        </shape>
+    </item>
+</layer-list>
