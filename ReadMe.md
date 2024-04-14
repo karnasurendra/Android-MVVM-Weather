@@ -57,3 +57,7 @@ The app makes two API calls using Retrofit:
     Retrofit: https://square.github.io/retrofit/
     Gson: https://github.com/google/gson
     Android Lifecycle Components: https://developer.android.com/topic/libraries/architecture/lifecycle
+
+![Alt Text](https://github.com/karnasurendra/WeatherInfo/blob/master/WhatsApp%20Image%202024-04-14%20at%2013.42.33.jpeg)
+
+![Alt Text](https://github.com/karnasurendra/WeatherInfo/blob/master/WhatsApp%20Image%202024-04-14%20at%2013.42.34.jpeg)
