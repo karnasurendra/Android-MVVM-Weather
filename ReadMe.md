@@ -19,7 +19,7 @@ The Weather App is a mobile application developed to provide users with current 
 
 ## Configuration
 
-Before running the app, make sure to configure the OpenWeatherMap API key in the Constants.java file. Replace YOUR_API_KEY with your actual API key obtained from OpenWeatherMap.
+Before running the app, make sure to configure the OpenWeatherMap API key in the AppConstants.java file. Replace YOUR_APP_ID with your actual API key obtained from OpenWeatherMap.
 
 ## Dependencies
 
